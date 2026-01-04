@@ -1,0 +1,9 @@
+spring:
+  ai:
+    openai:
+      api-key: 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
+      endpoint: https://api.openai.com/v1
+      chat:
+        options:
+          model: gpt-4o-mini
+          temperature: 1
